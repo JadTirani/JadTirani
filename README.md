@@ -1,18 +1,19 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Zach, AI and ML Engineer" src="./assets/gh-readme-header.png" /></a></p>
-
+<p align="center"><a href="https://anuraghazra.github.io"><img width="50%" alt="Hello, I'm Zach, AI and ML Engineer" src="./assets/logo.png" /></a></p>
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+Hello! I am a Python developer specializing in data science and Artificial Intelligence from Canada. 
+I am passionate about sports, technology, and the network that I form along the way.
+<br />
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Chief Technology Officer at [Akeo Labs](http://akeolabs.com/)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+- 📈 Building sentiment applications and other ML programs on the Solana Blockchain
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ Enjoy spending my time programming in Python and creating engaging and informative graphics
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 You can check out some of my past private work [here](https://zachfrank.dev)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
