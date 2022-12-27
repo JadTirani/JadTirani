@@ -35,7 +35,14 @@ I am passionate about sports, technology, and the network of friends that I form
 </a>
 
 <br />
-<br />
+
+#### Time Spent Coding
+
+<a href="https://github.com/Chief-Zach/CryptoApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chief_zach" alt="Coding Time"/>
+</a>
+
+
 
 <a href="https://twitter.com/chiefz_sol">
   <img align="right" alt="Zach | Twitter" width="21px" src="assets/twitter.svg" />
