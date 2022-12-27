@@ -16,12 +16,13 @@ I am passionate about sports, technology, and the network of friends that I form
 - 💬 You can check out some of my past private work [here](https://zachfrank.dev)
 
 <code><img height="30" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" alt="django" src="./assets/django-removebg-preview.png"></code>
+<code><img height="30" alt="flask" src="./assets/flask-removebg-preview.png"></code>
 <code><img height="30" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="30" alt="tensorflow" src="./assets/cpp-removebg-preview"></code>
+<code><img height="30" alt="cpp" src="./assets/cpp-removebg-preview.png"></code>
+<code><img height="30" alt="cpp" src="./assets/Pandas_logo.svg"></code>
 
-| <a href="https://github.com/Chief-Zach/CryptoApp"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chief-zach&show_icons=true&count_private=true&theme=transparent&hide_border=true" alt="Zach's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chief-zach&layout=compact&hide_border=true&show_icons=true&theme=transparent" /></a> |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://github.com/Chief-Zach"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chief-zach&show_icons=true&count_private=true&theme=transparent&hide_border=true" alt="Zach's github stats" /></a> | <a href="https://github.com/Chief-Zach"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chief-zach&layout=compact&hide_border=true&show_icons=true&theme=transparent" /></a> |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 #### Top Repositories
 
@@ -37,8 +38,5 @@ I am passionate about sports, technology, and the network of friends that I form
 <br />
 
 <a href="https://twitter.com/chiefz_sol">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="right" alt="Zach | Twitter" width="21px" src="assets/twitter.svg" />
 </a>
