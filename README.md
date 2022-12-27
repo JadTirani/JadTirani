@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="50%" alt="Hello, I'm Zach, AI and ML Engineer" src="./assets/logo.png" /></a></p>
+<p align="center"><a href="https://chief-zach.github.io"><img width="30%" alt="Hello, I'm Zach, AI and ML Engineer" src="./assets/logo.png" /></a></p>
 <br />
 
 Hello! I am a Python developer specializing in data science and Artificial Intelligence from Canada. 
