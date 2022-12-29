@@ -30,8 +30,8 @@ I am passionate about sports, technology, and the network of friends that I form
 <a href="https://github.com/Chief-Zach/CryptoApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chief-zach&repo=CryptoApp&theme=transparent&hide_border=true" alt="Top Repos"/>
 </a>
-<a href="https://github.com/Chief-Zach/CryptoApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chief-zach&repo=CryptoApp&theme=transparent&hide_border=true" alt="Top Repos"/>
+<a href="https://github.com/Chief-Zach/twitter-image-recognition">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chief-zach&repo=twitter-image-recognition&theme=transparent&hide_border=true" alt="Top Repos"/>
 </a>
 
 <br />
