@@ -7,10 +7,6 @@ I am passionate about sports, technology, and the network of friends that I form
 
 **About me**
 
-- 💼 Chief Technology Officer at [Akeo Labs](http://akeolabs.com/)
-
-- 🔧 Lead Software Architect at [REDACTED]() 
-
 - 📈 Building sentiment applications and other ML programs on the Solana Blockchain
 
 - ❤️ I Enjoy spending my time programming in Python and creating engaging and informative graphics
