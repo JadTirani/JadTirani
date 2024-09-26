@@ -5,7 +5,7 @@
 
 - 💼 [Campaign Social](https://www.campaignsocial.us/)
 
-- 💬 [here](https://zachfrank.dev)
+- 💬 [Website](https://zachfrank.dev)
 
 **Coding Challenges**
 - [Shopify](https://github.com/Shopify/eng-intern-assessment-data/pull/4)
