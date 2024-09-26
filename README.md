@@ -1,19 +1,11 @@
 <p align="center"><a href="https://zachfrank.dev"><img width="30%" alt="Hello, I'm Zach, AI and ML Engineer" src="./assets/logo.png" /></a></p>
 <br />
 
-Hello! I am a Python developer specializing in data science and Artificial Intelligence from Canada. 
-I am passionate about sports, technology, and the network of friends that I form along the way.
-<br />
-
 **About me**
-
-- 📈 Building sentiment applications and other ML programs on the Solana Blockchain
-
-- ❤️ I Enjoy spending my time programming in Python and creating engaging and informative graphics
 
 - 💼 [Campaign Social](https://www.campaignsocial.us/)
 
-- 💬 You can check out some of my past private work, and my socials [here](https://zachfrank.dev)
+- 💬 [here](https://zachfrank.dev)
 
 **Coding Challenges**
 - [Shopify](https://github.com/Shopify/eng-intern-assessment-data/pull/4)
