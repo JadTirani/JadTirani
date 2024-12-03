@@ -3,7 +3,7 @@
 
 **About me**
 
-- 💼 [Campaign Social](https://www.campaignsocial.us/)
+- 💼 Senior Software Engineer and Co-Founder at [Prometheus Labs](https://www.prometheuslabs.app/)/)
 
 - 💬 [Website](https://zachfrank.dev)
 
