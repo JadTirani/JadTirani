@@ -9,6 +9,7 @@
 
 **Coding Challenges**
 - [Shopify](https://github.com/Shopify/eng-intern-assessment-data/pull/4)
+- [CodeWars](https://www.codewars.com/users/ChiefZach) (Top 6%)
 
 <code><img height="30" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" alt="flask" src="./assets/flask-removebg-preview.png"></code>
