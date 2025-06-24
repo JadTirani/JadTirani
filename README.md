@@ -1,5 +1,3 @@
-<p align="center"><a href="https://zachfrank.dev"><img width="30%" alt="Hello, I'm Zach, AI and ML Engineer" src="./assets/logo.png" /></a></p>
-<br />
 
 **About me**
 
