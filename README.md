@@ -3,8 +3,6 @@
 
 - 💼 Senior Software Engineer and Co-Founder at [Prometheus Labs](https://www.prometheuslabs.app/)
 
-- 💬 [Website](https://zachfrank.dev)
-
 **Coding Challenges**
 - [Shopify](https://github.com/Shopify/eng-intern-assessment-data/pull/4)
 - <a href="https://www.codewars.com/users/ChiefZach"> <img height="20" alt="codewars" src="https://www.codewars.com/users/ChiefZach/badges/micro"></a> (Top 5%)
